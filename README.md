@@ -1,4 +1,7 @@
 ### To Do List App
 
 
-Practice using React.
+
+Using React JS
+
+![Screen Shots](public/image.png)
